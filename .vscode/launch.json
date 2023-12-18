@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AddressBookSystem",
+            "request": "launch",
+            "mainClass": "AddressBookSystem.AddressBookSystem",
+            "projectName": "CODSOFT_74042a5c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CODSOFT_74042a5c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Student Management System_bbcfd455"
+        },
+        {
+            "type": "java",
+            "name": "WordCounter",
+            "request": "launch",
+            "mainClass": "WordCounter",
+            "projectName": "CODSOFT_74042a5c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "NumberGame",
+            "request": "launch",
+            "mainClass": "NumberGame",
+            "projectName": "CODSOFT_74042a5c"
+        }
+    ]
+}
